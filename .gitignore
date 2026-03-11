@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Build artifacts
+*.class
+*.jar
+*.war
+
+# Environment files
+.env
+
+# Kubernetes local files
+*.kubeconfig
